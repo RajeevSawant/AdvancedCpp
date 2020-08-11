@@ -1,0 +1,53 @@
+
+
+Intro:
+
+* Class is created using keyword class.
+* It holds data and functions.
+* Class links the code and data.
+* The data and functions of the class are called as members of the class.
+
+
+* Objects are variables
+* They are the copy of a Class
+* Each of them has Properties and Behavior.
+* Properties are defined through data elements.
+* Behavior is defined through member function called methods.
+
+
+Syntax:
+
+class class-name{
+
+public/private/protected:
+Data members
+Member Functions
+
+};
+
+Note:
+* class-name in coding style starts with Capital letter.
+* Declaration of the member functions takes place first (using access specifier) and then the data members (using access specifier).
+
+
+
+
+-> Public Specifier:
+
+* The public Specifier allows the data to be accessed outside the class.
+* A public member can be used anywhere in the program.
+
+
+-> Protected Specifier:
+
+* Protected members cannot be accessed from outside the class.
+* They can be accessed by a derived class.
+
+
+-> Scope Resolution Operator
+
+* It is used to access hidden data
+* To access the variable or function with the same name we use :: operator
+* Suppose the local variable and the global variable have the same name.
+* The local variable gets the priority.
+* We can access the global variable using :: operator
