@@ -1,0 +1,8 @@
+
+
+@08/10/2020
+
+* Registered for online classes - advancedC++ -- IIT Bombay course
+* Created a github repo for the course. 
+* Watched classes & object video
+* completed assignment for finding perimeter of a circle using Classes & objects.
