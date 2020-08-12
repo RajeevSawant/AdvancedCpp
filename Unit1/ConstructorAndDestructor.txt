@@ -1,0 +1,18 @@
+
+
+--> constructor
+
+* Constructor is a member functions.
+* It has the same name as the class name.
+* Constructor cannot return values.
+* It is automatically called when a object is created.
+
+* Types of Constructor
+  * Parameterized constructors
+  * Copy Constructor
+  * Default constructor
+
+
+* Destructor are used to deallocate memory
+* They are called when an object is destroyed.
+* A destructor takes no arguments and has no return types.
