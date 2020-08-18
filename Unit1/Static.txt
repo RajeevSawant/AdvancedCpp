@@ -1,0 +1,16 @@
+
+
+
+
+*  Static Variable are initialized to zero before the first object is created.
+*  Only one copy of the static variable exist for the whole program.
+*  All the onjects will share that varaible.
+*  It will remain in the memory till the end of the program.
+
+
+* A static fucntion maybe called by itself without depending on any object.
+* To access a static function we use
+    classname :: staticfunction();
+
+
+*
