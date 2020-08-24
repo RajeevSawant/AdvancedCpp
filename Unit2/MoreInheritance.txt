@@ -1,0 +1,4 @@
+
+* Multiple inheritance , derived class inherits from more than one base class.
+
+* Hierarchical inheritance , multiple drived class inherits from one base class.

@@ -1,0 +1,41 @@
+
+
+
+* When one object acquires the properties of another it is called as Inheritance.
+* It is process of using exiting class without modifying them.
+
+
+Types of Inheritance
+
+* Single Inheritance
+* Multiple Inheritance
+* Hierarchical Inheritance
+* Multilevel Inheritance
+* Hybrid Inheritance
+
+
+Base class and derived class
+
+* The base class has its own properties and fucntionality
+* It is also called as parent class
+* it has common qualities that all the objects can inherit.
+* The derived class is the child class
+* Derived class inherit the properties and fucntionality of the base class.
+
+
+Single Inheritance
+* One base class and one derived class is needed.
+
+Multiple Inheritance
+* In Multiple inheritance derived class inherits from more than one base class.
+
+Hierarchical Inheritance
+* In Hierarchical Inheritance multiple derived class inherits from one base class.
+
+
+Multilevel Inheritance
+* The sub class acts as the base class for other classes.
+
+
+Hybrid Inheritance
+* More than one form of inheritance is combined.
