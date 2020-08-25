@@ -1,0 +1,22 @@
+
+Function Overloading:
+* Function Overloading means two or more function can have same name.
+* The number of arguments and the data-type of the arguments will be different.
+* When the function is called it is selected based on the argument list.
+
+
+Function Overriding:
+
+* Redefining a base class function in the derived class.
+* The derived class function overrides the base class function.
+* But the arguments passed are same.
+* return type is also same
+
+
+
+* Overloading can occur without inheritance.
+* Overriding occurs when one class is inherited from another
+* In overloading the arguments and the return-type must differ
+* In overriding the arguments and the return type must be same.
+* In overloading the fucntion name is same but it behaves differently depending on the arguments passed to them.
+* In overriding the function name is same , derived class function can perform different operations from the base class.
