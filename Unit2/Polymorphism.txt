@@ -1,0 +1,12 @@
+
+
+* Polymorphism is the ability to take different forms.
+* It is Mechanism to use the fu cntion with same name in different way.
+
+
+
+* Virtual function is the member function of a class.
+* It can be overriden in its derived class.
+* It is declared with virtual keyword.
+* Virtual function call is resolved at run-time.
+ 
