@@ -1,0 +1,18 @@
+
+
+* The private data is not accessible outside the class
+* To access the private data we use friend function
+* A friend function is not a member function of the class.
+* Friend func can be invoked with-out an object.
+* the argument passed in the friend func is used as its object.
+
+
+
+Declaration:
+
+friend return_type  func_name(class_name object)
+
+
+Friend func:
+
+eg: friend int compute (frnd f1);
