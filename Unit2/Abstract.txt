@@ -1,0 +1,14 @@
+* Abstract class is always a base class.
+* It contains atleast one pure virtual function.
+* We cannot create an instance of abstract class.
+
+
+
+* A pure virtual function is a func with no body.
+* it is not defined in a base class.
+* It is declared as
+    virtual void virtualfunname() = 0;
+
+* A derived class must override the func , other wise compiler will give an error.
+* It is upto a derived class to implement the function
+*
